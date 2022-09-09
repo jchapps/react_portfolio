@@ -1,7 +1,7 @@
 import self from "../img/self.jpeg";
 import pokemonhunter from "../img/pokemonhunter.png";
-import mock2 from "../img/mock2.png";
-import mock3 from "../img/mock3.png";
+import tokyovinyls from "../img/mock2.png";
+import tofuture from "../img/mock3.png";
 import mock4 from "../img/mock4.png";
 import mock5 from "../img/mock5.png";
 
@@ -79,22 +79,23 @@ export const info = {
     {
       title: "Pokemon Hunter",
       live: "http://joshchappelow.me/react-pokemon-hunter/",
+      source: "https://github.com/jchapps/react-pokemon-hunter",
       image: pokemonhunter,
     },
     {
-      title: "Project 2",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
-      image: mock2,
+      title: "Tokyo Vinyls",
+      live: "https://tokyo-vinyls.herokuapp.com/",
+      source: "https://github.com/jchapps/tokyo-vinyls",
+      image: tokyovinyls,
     },
     {
-      title: "Project 3",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
-      image: mock3,
+      title: "toFuture",
+      live: "tofuture.co",
+      source: "https://github.com/jchapps/tofuture",
+      image: tofuture,
     },
     {
-      title: "Project 4",
+      title: "Slack Clone",
       live: "https://paytonpierce.dev",
       source: "https://github.com/paytonjewell",
       image: mock4,
