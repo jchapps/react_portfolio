@@ -1,7 +1,7 @@
 import self from "../img/self.jpeg";
 import pokemonhunter from "../img/pokemonhunter.png";
-import tokyovinyls from "../img/mock2.png";
-import tofuture from "../img/mock3.png";
+import tokyovinyls from "../img/tokyovinyls.png";
+import tofuture from "../img/tofuture.png";
 import mock4 from "../img/mock4.png";
 import mock5 from "../img/mock5.png";
 
