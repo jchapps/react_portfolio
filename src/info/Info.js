@@ -2,7 +2,7 @@ import self from "../img/self.jpeg";
 import pokemonhunter from "../img/pokemonhunter.png";
 import tokyovinyls from "../img/tokyovinyls.png";
 import tofuture from "../img/tofuture.png";
-import mock4 from "../img/mock4.png";
+import slack from "../img/slack.png";
 import mock5 from "../img/mock5.png";
 
 export let colors = ["#f0ead6", "#548C2F"];
@@ -78,7 +78,7 @@ export const info = {
   portfolio: [
     {
       title: "Pokemon Hunter",
-      live: "http://joshchappelow.me/react-pokemon-hunter/",
+      live: "jchapps.github.io/react-pokemon-hunter/",
       source: "https://github.com/jchapps/react-pokemon-hunter",
       image: pokemonhunter,
     },
@@ -91,14 +91,14 @@ export const info = {
     {
       title: "toFuture",
       live: "tofuture.co",
-      source: "https://github.com/jchapps/tofuture",
+      source: "https://www.tofuture.co/",
       image: tofuture,
     },
     {
       title: "Slack Clone",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
-      image: mock4,
+      live: "jchapps.github.io/react-slack-clone",
+      source: "https://github.com/jchapps/react-slack-clone",
+      image: slack,
     },
     {
       title: "Project 5",
