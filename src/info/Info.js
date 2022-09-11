@@ -78,7 +78,7 @@ export const info = {
   portfolio: [
     {
       title: "Pokemon Hunter",
-      live: "jchapps.github.io/react-pokemon-hunter/",
+      live: "https://jchapps.github.io/react-pokemon-hunter/",
       source: "https://github.com/jchapps/react-pokemon-hunter",
       image: pokemonhunter,
     },
@@ -90,8 +90,8 @@ export const info = {
     },
     {
       title: "toFuture",
-      live: "tofuture.co",
-      source: "https://www.tofuture.co/",
+      live: "https://www.tofuture.co/",
+      source: "https://github.com/jchapps/tofuture",
       image: tofuture,
     },
     {
