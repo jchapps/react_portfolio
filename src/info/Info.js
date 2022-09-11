@@ -100,11 +100,5 @@ export const info = {
       source: "https://github.com/jchapps/react-slack-clone",
       image: slack,
     },
-    {
-      title: "Project 5",
-      live: "https://paytonpierce.dev",
-      source: "https://github.com/paytonjewell",
-      image: mock5,
-    },
   ],
 };
