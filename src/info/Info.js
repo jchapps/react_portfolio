@@ -96,7 +96,7 @@ export const info = {
     },
     {
       title: "Slack Clone",
-      live: "jchapps.github.io/react-slack-clone",
+      live: "https://jchapps.github.io/react-slack-clone/",
       source: "https://github.com/jchapps/react-slack-clone",
       image: slack,
     },
