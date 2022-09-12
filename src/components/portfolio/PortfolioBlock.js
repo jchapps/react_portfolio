@@ -13,8 +13,8 @@ function PortfolioBlock(props) {
     >
       <Box component={"img"} src={image} alt={"mockup"} />
       <h1 style={{ fontSize: "2rem" }}>{title}</h1>
-      <h4>{software}</h4>
-      <p>{info}</p>
+      <h4 style={{ fontSize: "15px" }}>{software}</h4>
+      <p style={{ fontSize: "20px" }}>{info}</p>
       <Box
         className={"portfolio"}
         display={"flex"}
