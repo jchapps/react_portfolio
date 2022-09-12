@@ -104,8 +104,8 @@ export const info = {
     },
     {
       title: "Slack Clone",
-      live: "https://jchapps.github.io/react-slack-clone/",
-      source: "https://github.com/jchapps/react-slack-clone",
+      live: "https://jchapps.github.io/react-clone-slack/",
+      source: "https://github.com/jchapps/react-clone-slack",
       software: "React, JavaScript, CSS3, HTML5, Github.",
       info: "Slack clone built in Slack featuring DoTA2 heroes.",
       image: slack,
