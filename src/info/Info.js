@@ -4,7 +4,7 @@ import tokyovinyls from "../img/tokyovinyls.png";
 import tofuture from "../img/tofuture.png";
 import slack from "../img/slack.png";
 import shopifypokemon from "../img/shopifypokemon.png";
-import belatedbicycles from "../img/belatedbicycle.png";
+import belatedbicycles from "../img/belatedbicycles.png";
 
 export let colors = ["#f0ead6", "#548C2F"];
 
