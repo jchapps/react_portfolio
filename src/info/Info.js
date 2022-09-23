@@ -87,9 +87,18 @@ export const info = {
       title: "Belated Bicycles",
       live: "https://shopify-store-ten.vercel.app/",
       source: "https://github.com/jchapps/shopify-store",
-      software: "//Next.js, JavaScript, Tailwind, HTML5, Github, Vercel.",
+      software: "// Next.js, JavaScript, Tailwind, HTML5, Github, Vercel.",
       info: "Headless shopify store built in Next.js and Tailwind",
       image: belatedbicycles,
+    },
+    {
+      title: "Blue Movies",
+      live: "https://blue-movies.vercel.app/",
+      source: "https://github.com/jchapps/typescript-next.js-blue-movies",
+      software:
+        "// Next.js, Typescript, Tailwind, MUI, Firebase, HTML5, Github, Vercel.",
+      info: "Headless shopify store built in Next.js and Tailwind",
+      image: bluemovies,
     },
     {
       title: "Tokyo Vinyls",
@@ -97,7 +106,7 @@ export const info = {
       source: "https://github.com/jchapps/tokyo-vinyls",
       image: tokyovinyls,
       software:
-        "//Ruby on rails, CSS3, HTML5, Heroku, Bootstrap, Figma, PostGreSQL.",
+        "// Ruby on rails, CSS3, HTML5, Heroku, Bootstrap, Figma, PostGreSQL.",
       info: "Web app built in 5days to connect vinyl collectors and vinyl fans.",
     },
     {
@@ -105,7 +114,7 @@ export const info = {
       live: "https://www.tofuture.co/",
       source: "https://github.com/jchapps/tofuture",
       software:
-        "//Ruby on rails, JavaScript, CSS3, HTML5, Heroku, Bootstrap, Figma, PostGreSQL.",
+        "// Ruby on rails, JavaScript, CSS3, HTML5, Heroku, Bootstrap, Figma, PostGreSQL.",
       info: "Web app built in 10days to connect conscious investors to sustainable products.",
       image: tofuture,
     },
@@ -113,7 +122,7 @@ export const info = {
       title: "Slack Clone",
       live: "https://jchapps.github.io/react-clone-slack/",
       source: "https://github.com/jchapps/react-clone-slack",
-      software: "//React, JavaScript, CSS3, HTML5, Github.",
+      software: "// React, JavaScript, CSS3, HTML5, Github.",
       info: "Slack clone built in Slack featuring DoTA2 heroes.",
       image: slack,
     },
@@ -123,14 +132,14 @@ export const info = {
       live: "https://jchapps.github.io/react-pokemon-hunter/",
       source: "https://github.com/jchapps/react-pokemon-hunter",
       image: pokemonhunter,
-      software: "//React, JavaScript, CSS3, HTML5 Github.",
+      software: "// React, JavaScript, CSS3, HTML5 Github.",
       info: "Find GIFs of your favourite pokemon.",
     },
 
     {
       title: "Shopify Pokemon Cards - IN PROGESS",
       source: "https://github.com/billcookie/shopify-pokemon",
-      software: "//Frontend React, Ruby on Rails backend, Shopify integrated.",
+      software: "// Frontend React, Ruby on Rails backend, Shopify integrated.",
       info: "Web App for pokemon card collectors to buy their favourite cards.",
       image: shopifypokemon,
     },
