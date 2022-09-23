@@ -97,7 +97,7 @@ export const info = {
       source: "https://github.com/jchapps/typescript-next.js-blue-movies",
       software:
         "// Next.js, Typescript, Tailwind, MUI, Firebase, HTML5, Github, Vercel.",
-      info: "Headless shopify store built in Next.js and Tailwind",
+      info: "Web app to find and watch movie trailers",
       image: bluemovies,
     },
     {
