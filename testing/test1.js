@@ -34,6 +34,5 @@ class NumList {
     return this.array;
   }
 }
-
-let example = new NumList([1, 2, 3]);
-console.log(example.reversed());
+let example = new NumList([1, 4, 2, 3]);
+console.log(example.sorted());
