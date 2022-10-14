@@ -42,11 +42,11 @@ export const info = {
 
   skills: {
     proficientWith: [
-      "ruby on rails",
+      "React",
       "javascript",
       "next.js",
       "typescript",
-      "react",
+      "ruby on rails",
       "git",
       "github",
       "bootstrap",
@@ -59,6 +59,7 @@ export const info = {
       "PostgreSQL",
       "graphQL",
       "SASS",
+
     ],
     exposedTo: [""],
   },
