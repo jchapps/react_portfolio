@@ -42,7 +42,7 @@ export const info = {
 
   skills: {
     proficientWith: [
-      "React",
+      "react",
       "javascript",
       "next.js",
       "typescript",
@@ -109,6 +109,15 @@ export const info = {
       software:
         "// Ruby on rails, CSS3, HTML5, Heroku, Bootstrap, Figma, PostGreSQL.",
       info: "Web app built in 5days to connect vinyl collectors and vinyl fans.",
+    },
+    {
+      title: "City Weather",
+      live: "https://weather-city-forecaster.vercel.app/",
+      source: "https://github.com/jchapps/react-weather-checker",
+      software:
+        "// React.js, RESTful API, HTML5, Github, Vercel.",
+      info: "Web app to find weather forecasts of cities around the world",
+      image: screenshot1,
     },
     {
       title: "toFuture",
