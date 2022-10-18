@@ -146,13 +146,5 @@ export const info = {
       software: "// React, JavaScript, CSS3, HTML5 Github.",
       info: "Find GIFs of your favourite pokemon.",
     },
-
-    {
-      title: "Shopify Pokemon Cards - IN PROGESS",
-      source: "https://github.com/billcookie/shopify-pokemon",
-      software: "// Frontend React, Ruby on Rails backend, Shopify integrated.",
-      info: "Web App for pokemon card collectors to buy their favourite cards.",
-      image: shopifypokemon,
-    },
   ],
 };
