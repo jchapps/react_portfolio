@@ -6,6 +6,7 @@ import slack from "../img/slack.png";
 import shopifypokemon from "../img/shopifypokemon.png";
 import belatedbicycles from "../img/belatedbicycles.png";
 import bluemovies from "../img/bluemovies.png";
+import weather from '../img/screenshot1.png'
 
 export let colors = ["#f0ead6", "#548C2F"];
 
@@ -117,7 +118,7 @@ export const info = {
       software:
         "// React.js, RESTful API, HTML5, Github, Vercel.",
       info: "Web app to find weather forecasts of cities around the world",
-      image: screenshot1,
+      image: weather,
     },
     {
       title: "toFuture",
