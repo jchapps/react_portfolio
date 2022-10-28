@@ -52,14 +52,13 @@ export const info = {
       "github",
       "bootstrap",
       "tailwind",
-      "html",
-      "css",
       "figma",
       "heroku",
       "vercel",
       "PostgreSQL",
       "graphQL",
-      "SASS",
+      "AWS",
+      "Azure"
 
     ],
     exposedTo: [""],
