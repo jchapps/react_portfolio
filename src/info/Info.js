@@ -95,14 +95,14 @@ export const info = {
       live: "https://blue-movies.vercel.app/",
       source: "https://github.com/jchapps/typescript-next.js-blue-movies",
       software:
-        "// Next.js, Typescript, Tailwind, MUI, Firebase, Vercel.",
-      info: "Web app to find and watch movie trailers",
+        "// Next.js, Typescript, Stripe, Tailwind, MUI, Firebase",
+      info: "Web app to watch the newest movie trailers",
       image: bluemovies,
     },
     {
       title: "Tokyo Vinyls",
       live: "https://tokyo-vinyls.herokuapp.com/",
-      source: "https://github.com/jchapps/tokyo-vinyls",
+      source: "https://github.com/billcookie/tokyo-vinyls",
       image: tokyovinyls,
       software:
         "// Ruby on rails, Bootstrap, Figma, PostGreSQL.",
@@ -120,7 +120,7 @@ export const info = {
     {
       title: "toFuture",
       live: "https://www.tofuture.co/",
-      source: "https://github.com/jchapps/tofuture",
+      source: "https://github.com/carlawlls/tofuture",
       software:
         "// Ruby on rails, JavaScript, Heroku, Bootstrap, Figma, PostGreSQL.",
       info: "Web app built in 10days to connect conscious investors to sustainable products.",
